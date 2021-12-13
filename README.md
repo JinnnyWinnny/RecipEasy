@@ -1,5 +1,3 @@
-# cse110-fa21-group25
-
 ## [Runtime Terror Team Page](admin/team.md)
 
 ## [RecipEasy](https://cse110-fa21-group25.firebaseapp.com/home-page.html)
